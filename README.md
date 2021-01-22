@@ -1,7 +1,7 @@
 recreating [precourse baseball game](https://github.com/woowacourse/javascript-baseball-precourse) with Javascript
 
 ## List of Features
-- [ ] generate computer numbers
+- [x] generate computer numbers
   
 - [ ] get user input
     - [ ] validate quantity
